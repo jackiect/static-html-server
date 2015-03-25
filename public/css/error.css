@@ -1,0 +1,49 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background: #f4f4f4;
+}
+
+p {
+  font-family: "Microsoft YaHei";
+  margin: 0px;
+  padding: 0px;
+}
+
+.f1 {
+  font-size: 20px;
+  color: #5b5b5b;
+  text-align: center;
+  margin-top: 150px;
+  margin-bottom: -30px;
+  padding-left: 179px;
+}
+
+.f2 {
+  font-size: 140px;
+  color: #5b5b5b;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.f3 {
+  font-size: 24px;
+  color: #ed145b;
+  text-align: center;
+  margin-top: -10px;
+}
+
+.f4 {
+  font-size: 18px;
+  color: #736e70;
+  text-align: center;
+  margin-top: 60px;
+}
+
+a: link {color: #736e70}
+a: visited {color: #736e70}
+a: hover {
+  color: #ed135b;
+  text-decoration: none;
+}
