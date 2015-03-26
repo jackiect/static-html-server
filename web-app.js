@@ -10,5 +10,5 @@ app.use(express.static("public"));
 
 app.use("/repo", express.static("archiv"));
 
-app.listen(8099);
+app.listen(process.env.VCAP_APP_PORT || 8099);
 console.log("Server start on 8099.");
